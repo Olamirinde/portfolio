@@ -15,7 +15,7 @@ export default function Navbar() {
     <header className="fixed top-0 inset-x-0 z-50 bg-slate-950/80 backdrop-blur border-b border-slate-800">
       <nav className="max-w-6xl mx-auto flex items-center justify-between px-6 h-16">
         <a href="#home" className="text-lg font-bold text-white">
-          Rinde<span className="text-emerald-400">.</span>
+          Olamirinde<span className="text-emerald-400">.</span>
         </a>
 
         {/* Desktop links */}
