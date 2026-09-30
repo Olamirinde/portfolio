@@ -1,7 +1,7 @@
 const experience = [
   {
     period: 'Jan 2026 — Sep 2026',
-    title: 'Backend Development Intern',
+    title: 'Backend Engineer Intern',
     place: 'NQLB',
     description:
       'Worked on PHP backend projects, applying OOP and MVC architecture. Built simple REST APIs and worked with the Lumen framework.',
